@@ -2,8 +2,7 @@
 ### Корисна література для екоспільнот
 
 #### Даяна Крістіан - "Творимо майбутнє разом"
-- [Читати онлайн](http://cluboz.net/wp-content/uploads/2014/11/Kniga_Diana_Kristian_Tvorim_sovmesnoe_budu
-chee2.pdf)
+- [Читати онлайн](http://cluboz.net/wp-content/uploads/2014/11/Kniga_Diana_Kristian_Tvorim_sovmesnoe_buduchee2.pdf)
 
 #### Цілі сталого розвитку 2016-2030
 - [Дізнатися більше](http://www.un.org.ua/ua/tsili-rozvytku-tysiacholittia/tsili-staloho-rozvytku)
@@ -12,8 +11,7 @@ chee2.pdf)
 - [Завантажити PDF](https://taif.org.ua/wp-content/uploads/2019/02/Heritage-Economy-book_TAIF.pdf)
 
 #### The Circle Way: A Leader in Every Chair
-- [Завантажити керівництво](https://static1.squarespace.com/static/55597e72e4b0f7284bff49e0/t/584b5a7d37c58174c5fd
-df14/1481333377770/The+Circle+Way+Pocket+Guide.pdf)
+- [Завантажити керівництво](https://static1.squarespace.com/static/55597e72e4b0f7284bff49e0/t/584b5a7d37c58174c5fddf14/1481333377770/The+Circle+Way+Pocket+Guide.pdf)
 
 #### Re-generation Daniel Christian Wahl
 - [Переглянути матеріали](https://gaiaeducation.org/wp-content/uploads/2017/11/PM89-Regeneration-pp13-16-1.pdf)
