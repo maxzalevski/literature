@@ -1,5 +1,4 @@
-# literature
-### Корисна література для екоспільнот
+# Корисна література для екоспільнот
 
 #### Даяна Крістіан - "Творимо майбутнє разом"
 - [Читати онлайн](http://cluboz.net/wp-content/uploads/2014/11/Kniga_Diana_Kristian_Tvorim_sovmesnoe_buduchee2.pdf)
