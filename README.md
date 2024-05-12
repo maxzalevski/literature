@@ -1,5 +1,9 @@
 # Корисна література для екоспільнот
 
+### Журнали про мережу екопоселень України
+
+- [Усі випуски онлайн](https://genukraine.com.ua/index.php/en/magazine)
+- 
 #### Даяна Крістіан - "Творимо майбутнє разом"
 - [Читати онлайн](http://cluboz.net/wp-content/uploads/2014/11/Kniga_Diana_Kristian_Tvorim_sovmesnoe_buduchee2.pdf)
 
