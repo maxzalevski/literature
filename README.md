@@ -43,3 +43,6 @@
 
 ### Оаза Принципи регенерації і управління земельними ресурсами
 - [Вайтпепер Оази](https://drive.google.com/drive/u/0/folders/1HNMzCTKhh_QMMw048rwRxJaHwtyZr_g5)
+
+### Мережева держава
+- [переклад неповний](https://docs.google.com/document/d/1F1r3jspA5YRU1Q0EtHQFm1C4fdApDgMo3NlxOQnWPP8/edit#heading=h.456srb2iqkhp)
