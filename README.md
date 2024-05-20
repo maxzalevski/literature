@@ -54,4 +54,5 @@
 ### Чотири рівні слухання Отто
 - [стаття](https://medium.com/@rodovidme/%D1%87%D0%BE%D1%82%D0%B8%D1%80%D0%B8-%D1%80%D1%96%D0%B2%D0%BD%D1%96-%D1%81%D0%BB%D1%83%D1%85%D0%B0%D0%BD%D0%BD%D1%8F-%D0%BE%D1%82%D1%82%D0%BE-17e8c4c3b03b)
 
-### Миротворчі кола. Посібник
+### Посібник для фасилітації миротворчих кіл. Борбала Феллегі та Дора Сего
+- [Посібник](https://drive.google.com/file/d/12ZZRd0ze1FGrv3WQZArAOJe1WpsUXAnz/view?usp=sharing)
