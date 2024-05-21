@@ -56,3 +56,13 @@
 
 ### Посібник для фасилітації миротворчих кіл. Борбала Феллегі та Дора Сего
 - [Посібник](https://drive.google.com/file/d/12ZZRd0ze1FGrv3WQZArAOJe1WpsUXAnz/view?usp=sharing)
+
+### REGENERATION ROADMAP
+- [Manual](https://drive.google.com/file/d/1oTJgNCE4bmJV-RI8uiCcm2AvDR7uwHfn/view)
+
+### how-to-build-regen-village-v0.9
+- [Manual](https://drive.google.com/file/d/1IzFZNSaE2tzdCv3jeE7NDfEBa-O3B3tA/view?usp=sharing)
+
+### Community alchemy Guide
+[Manual](https://docs.google.com/document/d/1Tej7hwRUK4__7ErLdX8kFWFfH4yKfk88xdzpDQyXH4Y/edit)
+
