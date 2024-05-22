@@ -60,7 +60,7 @@
 ### REGENERATION ROADMAP
 - [Manual](https://drive.google.com/file/d/1oTJgNCE4bmJV-RI8uiCcm2AvDR7uwHfn/view)
 
-### how-to-build-regen-village-v0.9
+### How to build a regenerative village v0.9
 - [Manual](https://drive.google.com/file/d/1IzFZNSaE2tzdCv3jeE7NDfEBa-O3B3tA/view?usp=sharing)
 
 ### Community alchemy Guide
