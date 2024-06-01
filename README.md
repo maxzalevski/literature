@@ -66,3 +66,6 @@
 ### Community alchemy Guide
 [Manual](https://docs.google.com/document/d/1Tej7hwRUK4__7ErLdX8kFWFfH4yKfk88xdzpDQyXH4Y/edit)
 
+## Ресурси: Крипто карбонова економіка
+[Список](https://docs.google.com/document/d/1qqvU7WzyYhmVaMad5lF1JJlcXlHqxgctSRRFubFLOdQ/edit#heading=h.8fybrf5nxr8f)
+
