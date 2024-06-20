@@ -69,3 +69,5 @@
 ## Ресурси: Крипто карбонова економіка
 [Список](https://docs.google.com/document/d/1qqvU7WzyYhmVaMad5lF1JJlcXlHqxgctSRRFubFLOdQ/edit#heading=h.8fybrf5nxr8f)
 
+## How regenerative startups can be self-sustaining with lean marketing
+[Whitepaper](https://drive.google.com/file/d/1bgEarUG2Oqo8smlZPYyffvzYI_vxrcR5/view)
