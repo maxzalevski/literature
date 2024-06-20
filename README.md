@@ -3,7 +3,7 @@
 ### Журнали про мережу екопоселень України
 
 - [Усі випуски онлайн](https://genukraine.com.ua/index.php/en/magazine)
-- 
+- [Каталог 2024](https://drive.google.com/file/d/1KHmnMeuD211ogTGxvpsA2BjK0Vy_UdlB/view)
 #### Даяна Крістіан - "Творимо майбутнє разом"
 - [Читати онлайн](http://cluboz.net/wp-content/uploads/2014/11/Kniga_Diana_Kristian_Tvorim_sovmesnoe_buduchee2.pdf)
 
