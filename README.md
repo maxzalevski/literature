@@ -71,3 +71,5 @@
 
 ## How regenerative startups can be self-sustaining with lean marketing
 [Whitepaper](https://drive.google.com/file/d/1bgEarUG2Oqo8smlZPYyffvzYI_vxrcR5/view)
+
+## New article
