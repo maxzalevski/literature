@@ -69,6 +69,9 @@
 ## Ресурси: Крипто карбонова економіка
 [Список](https://docs.google.com/document/d/1qqvU7WzyYhmVaMad5lF1JJlcXlHqxgctSRRFubFLOdQ/edit#heading=h.8fybrf5nxr8f)
 
+## Крипто Гранти
+[Як писати заявку на Gitcoin Grants](https://medium.com/@rodovidme/%D1%8F%D0%BA-%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B8-%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D1%83-%D0%BD%D0%B0-gitcoin-grants-a7cff8d2fd57)
+
 ## How regenerative startups can be self-sustaining with lean marketing
 [Whitepaper](https://drive.google.com/file/d/1bgEarUG2Oqo8smlZPYyffvzYI_vxrcR5/view)
 
